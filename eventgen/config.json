@@ -1,0 +1,7 @@
+{
+  "samples": "samples/audit_log.txt",
+  "webhook_url": "https://ingest.us1.sentinelone.net/services/collector/raw?sourcetype=oracle_audit",
+  "output_size": "10KB",
+  "time_range": "20m",
+  "format": "xml"
+}
